@@ -30,7 +30,7 @@
           <a title="Github" target="_blank" rel="nofollow" href="https://github.com/chnbsdan">
             <img class="w-8" src="@/assets/images/footer/github.svg" />
           </a>
-          <a title="Hangdn Notes" target="_blank" href="https:/aoso.hangdn.com/">
+          <a title="Hangdn Notes" target="_blank" href="aoso.hangdn.com">
             <img class="w-8" src="@/assets/images/footer/blog.svg" />
           </a>
         </div>
